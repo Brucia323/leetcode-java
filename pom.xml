@@ -19,6 +19,7 @@
         <module>two-sum</module>
         <module>add-two-numbers</module>
         <module>longest-substring-without-repeating-characters</module>
+        <module>median-of-two-sorted-arrays</module>
     </modules>
 
 </project>
